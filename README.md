@@ -48,3 +48,30 @@ PHP         ██████████████ 77.5%
 CSS         ████ 16.1%  
 Hack        █ 3.9%  
 JavaScript  ▎ 2.5%  
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F72E&background=0D111700&center=true&vCenter=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Shasin+Madushan;SLIIT+Undergraduate;Java+%7C+PHP+Developer;Full-Stack+Enthusiast;Open-Source+Contributor" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/YourUsername?tab=followers">
+    <img src="https://img.shields.io/github/followers/YourUsername?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</div>
+
+---
+
+## 🚀 About Me
+
+```java
+public class ShasinMadushan {
+    String education = "BSc (Hons) in Computer Science at SLIIT";
+    String[] skills = {"Java", "PHP", "Spring Boot", "Laravel", "MySQL", "React"};
+    String currentFocus = "Building scalable backend systems";
+    String motto = "Code with passion, deploy with precision";
+    
+    public static void main(String[] args) {
+        System.out.println("Innovative developer crafting digital solutions");
+    }
+}
