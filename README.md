@@ -1,8 +1,8 @@
-# <div align="center">✨ **PROJECT NAME** ✨</div>
+# <div align="center">👋 **Hello World, I'm Shasin Madushan!** 👋</div>
 
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Your%20Project%20Name&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Building%20the%20future,%20one%20line%20at%20a%20time&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Shasin%20Madushan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20SLIIT%20Undergraduate%20%7C%20Java%20%26%20PHP%20Developer&descAlignY=60&descAlign=50)
 
 </div>
 
@@ -11,41 +11,38 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+amazing+project!;Built+with+%E2%9D%A4%EF%B8%8F+and+lots+of+%E2%98%95;SLIIT+Undergraduate+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepository?style=for-the-badge&logo=github&logoColor=white&color=ff6b6b&labelColor=282828)
-  ![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepository?style=for-the-badge&logo=star&logoColor=white&color=feca57&labelColor=282828)
-  ![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepository?style=for-the-badge&logo=git&logoColor=white&color=48dbfb&labelColor=282828)
-  ![GitHub issues](https://img.shields.io/github/issues/yourusername/yourrepository?style=for-the-badge&logo=github&logoColor=white&color=ff9ff3&labelColor=282828)
-  ![GitHub license](https://img.shields.io/github/license/yourusername/yourrepository?style=for-the-badge&logo=open-source-initiative&logoColor=white&color=54a0ff&labelColor=282828)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Welcome+to+my+coding+universe!+%F0%9F%8C%8C;Java+%26+PHP+Full-Stack+Developer+%E2%98%95;Building+Property+Management+Systems+%F0%9F%8F%A2;SLIIT+Undergraduate+%7C+Problem+Solver+%F0%9F%8E%93;Crafting+code+with+passion!+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
----
-
 <div align="center">
 
-## 🎯 **ABOUT THE PROJECT**
-
-*Revolutionizing the way we think about technology*
+![Profile Views](https://komarev.com/ghpvc/?username=PasanUdara&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/PasanUdara?style=for-the-badge&color=ff6b6b&labelColor=282828&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/PasanUdara?style=for-the-badge&color=feca57&labelColor=282828&logo=star)
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+---
 
-🚀 **What makes this special?** This project represents the cutting-edge of modern development, combining innovative design with powerful functionality. Built during my journey as a SLIIT undergraduate, it showcases the perfect blend of academic knowledge and real-world application.
+<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 **Academic Excellence**
-- 🏛️ **University**: Sri Lanka Institute of Information Technology
-- 📚 **Program**: [Your Degree Program]
-- 🎯 **Year**: [Current Year]
-- 💡 **Specialization**: [Your Specialization]
+## 🚀 **About Me**
+
+🎓 **Computer Science Undergraduate** at **SLIIT**  
+💻 **Full-Stack Developer** specializing in **Java & PHP**  
+🏢 **Property Management Systems** Expert  
+🌟 **Problem Solver** who loves creating efficient solutions  
+🎯 **Goal**: Building robust systems that solve real-world problems  
+
+### 🌟 **What I'm up to:**
+- 🔭 Currently working on **Property Management Solutions**
+- 🌱 Learning **Advanced Java Frameworks & Modern PHP**
+- 👯 Looking to collaborate on **Enterprise Applications**
+- 💬 Ask me about **Java, PHP, Web Development, System Design**
+- ⚡ Fun fact: **I love architecting systems that make life easier!** 🏗️
 
 <br clear="right"/>
 
@@ -53,43 +50,193 @@
 
 <div align="center">
 
-## ⚡ **FEATURES THAT BLOW MINDS**
+## 💻 **My Programming Arsenal**
+
+*Technologies I work with daily*
+
+</div>
+
+<div align="center">
+
+### 🔥 **Primary Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+</div>
+
+### 📊 **My Real Language Statistics**
+
+<div align="center">
+
+```text
+☕ Java         ███████████████████████▌   99.3% (Property Management Core)
+🐘 PHP          ████████████████████▊      77.5% (Web Applications)
+🎨 CSS          ████▌                      16.1% (UI Styling)
+🛠️ Hack         █▌                          3.9% (System Scripts)
+🟨 JavaScript   █▌                          2.5% (Frontend Logic)
+```
+
+*Based on real GitHub repository analysis*
+
+</div>
+
+<div align="center">
+
+### 🛠️ **Tech Stack & Tools**
+
+**Backend Development**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend Development**
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+**Development Tools**
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 **GitHub Analytics**
+
+*Real data from my coding journey*
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PasanUdara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=F8F8F2&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasanUdara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=F8F8F2&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PasanUdara&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8F8F2)
+
+</div>
+
+### 🏆 **GitHub Trophies**
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PasanUdara&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **Contribution Activity**
+
+*My real GitHub journey*
+
+</div>
+
+<div align="center">
+
+**📅 2024 Activity: 1 contribution**  
+**📊 Last Year: 9 total contributions**  
+*Quality over quantity - each commit counts!*
+
+</div>
+
+### 📅 **Contribution Graph**
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PasanUdara&bg_color=0D1117&color=F8D866&line=F85D7F&point=F8F8F2&area=true&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏗️ **Featured Projects**
+
+*Real projects from my GitHub*
+
+</div>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏢 Online Property Management System</h3>
+      <div align="center">  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+      </div>
+      <p align="center"><strong>Languages:</strong> Java 99.3%, CSS 0.7%</p>
+      <p align="center">A comprehensive rental property administration system that simplifies property management and enhances tenant communication. Built with Java backend and modern web technologies.</p>
+      <p align="center">
+        <a href="https://github.com/PasanUdara/OnlinePropertyManagementSystem">
+          <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 Full-Stack Web Application</h3>
+      <div align="center">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+      </div>
+      <p align="center"><strong>Languages:</strong> PHP 77.5%, CSS 16.1%, JavaScript 2.5%, Hack 3.9%</p>
+      <p align="center">Advanced web application with comprehensive admin panel, user management, and dashboard functionality. Features modern PHP architecture with responsive design.</p>
+      <p align="center">
+        <a href="#your-second-project-link">
+          <img src="https://img.shields.io/badge/View%20Project-54A0FF?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎓 **Academic Journey**
 
 </div>
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/nolan/96/speed.png"/>
-      <h3>🚀 Lightning Fast</h3>
-      <p>Optimized performance with sub-second load times</p>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/nolan/96/graduation-cap.png"/>
+      <h3>🏛️ Sri Lanka Institute of Information Technology</h3>
+      <p><strong>Bachelor of Science in Information Technology</strong></p>
+      <p>📅 Current Undergraduate</p>
+      <p>🎯 Specializing in Software Engineering & System Development</p>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/nolan/96/smartphone-tablet.png"/>
-      <h3>📱 Responsive Design</h3>
-      <p>Seamless experience across all devices</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/nolan/96/security-checked.png"/>
-      <h3>🔐 Ultra Secure</h3>
-      <p>Bank-level security implementation</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/nolan/96/artificial-intelligence.png"/>
-      <h3>🤖 AI Powered</h3>
-      <p>Smart algorithms that learn and adapt</p>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/nolan/96/cloud.png"/>
-      <h3>☁️ Cloud Native</h3>
-      <p>Scalable cloud infrastructure</p>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/nolan/96/analytics.png"/>
-      <h3>📊 Real-time Analytics</h3>
-      <p>Live data insights and monitoring</p>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/nolan/96/code.png"/>
+      <h3>💻 Technical Expertise</h3>
+      <p><strong>Core Competencies</strong></p>
+      <p>🔹 Enterprise Java Development</p>
+      <p>🔹 PHP Web Application Development</p>
+      <p>🔹 Property Management Systems</p>
+      <p>🔹 Full-Stack Architecture Design</p>
     </td>
   </tr>
 </table>
@@ -98,37 +245,30 @@
 
 <div align="center">
 
-## 🛠️ **TECH STACK**
+## 🤝 **Let's Connect & Collaborate**
 
-*Built with the most modern technologies*
+*Always open to new opportunities and collaborations!*
 
 </div>
 
 <div align="center">
 
-### Frontend Powerhouse
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect)](https://linkedin.com/in/shasin-madushan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=Follow)](https://twitter.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Follow)](https://instagram.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&label=Visit)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Contact)](mailto:your.email@sliit.lk)
 
-### Backend Beast
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+</div>
 
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
 
-### DevOps & Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### 📧 **Get In Touch**
+
+**GitHub**: [@PasanUdara](https://github.com/PasanUdara)  
+**Email**: [your.email@sliit.lk](mailto:your.email@sliit.lk)  
+**Location**: 📍 Mulleriyawa, Western Province, Sri Lanka 🇱🇰  
+**Availability**: Open to **internships**, **collaborations**, and **full-stack development projects**!
 
 </div>
 
@@ -136,45 +276,18 @@
 
 <div align="center">
 
-## 🚀 **QUICK START GUIDE**
-
-*Get up and running in under 5 minutes!*
+## 🎯 **Fun Facts About Me**
 
 </div>
 
-### 📋 Prerequisites
-
-```bash
-# Check if you have the required versions
-node --version  # Should be >= 16.0.0
-npm --version   # Should be >= 8.0.0
-git --version   # Latest version recommended
-```
-
-### ⚡ Lightning Setup
-
-```bash
-# 1️⃣ Clone this masterpiece
-git clone https://github.com/yourusername/yourrepository.git
-
-# 2️⃣ Navigate to project
-cd yourrepository
-
-# 3️⃣ Install dependencies (grab a coffee ☕)
-npm install
-
-# 4️⃣ Set up environment variables
-cp .env.example .env.local
-# Edit .env.local with your configuration
-
-# 5️⃣ Launch the rocket 🚀
-npm run dev
-```
-
 <div align="center">
 
-### 🎉 **Boom! You're ready to go!**
-Open [http://localhost:3000](http://localhost:3000) and witness the magic ✨
+🏢 **Property Tech Enthusiast** - Love building systems that manage real estate  
+☕ **Java Purist** - 99.3% of my recent code is Java!  
+🐘 **PHP Developer** - Building robust web applications  
+📚 **System Architecture Fan** - Designing scalable solutions  
+🌙 **Night Coder** - Best solutions come after midnight  
+🎯 **Detail-Oriented** - Every line of code matters!  
 
 </div>
 
@@ -182,21 +295,9 @@ Open [http://localhost:3000](http://localhost:3000) and witness the magic ✨
 
 <div align="center">
 
-## 📸 **VISUAL SHOWCASE**
+## 💫 **Random Dev Quote**
 
-*A picture is worth a thousand words*
-
-</div>
-
-<div align="center">
-
-### 🖥️ Desktop Experience
-<img src="https://via.placeholder.com/800x400/667eea/ffffff?text=Desktop+Screenshot" alt="Desktop View" width="80%"/>
-
-<br><br>
-
-### 📱 Mobile Experience
-<img src="https://via.placeholder.com/300x600/f093fb/ffffff?text=Mobile+View" alt="Mobile View" width="30%"/>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -204,152 +305,9 @@ Open [http://localhost:3000](http://localhost:3000) and witness the magic ✨
 
 <div align="center">
 
-## 🗺️ **ROADMAP TO GREATNESS**
+## 🐍 **Watch My Contributions**
 
-*The journey never ends*
-
-</div>
-
-```mermaid
-gantt
-    title Development Roadmap
-    dateFormat  YYYY-MM-DD
-    section Phase 1
-    Project Setup           :done,    des1, 2024-01-01,2024-01-15
-    Core Features          :done,    des2, 2024-01-16, 2024-02-28
-    section Phase 2
-    UI/UX Enhancement      :active,  des3, 2024-03-01, 2024-03-31
-    API Integration        :         des4, 2024-04-01, 2024-04-30
-    section Phase 3
-    Testing & Optimization :         des5, 2024-05-01, 2024-05-31
-    Production Deployment  :         des6, 2024-06-01, 2024-06-15
-```
-
-<div align="center">
-
-| Status | Feature | Priority | ETA |
-|--------|---------|----------|-----|
-| ✅ | Core Architecture | High | Completed |
-| ✅ | User Authentication | High | Completed |
-| 🔄 | Advanced Dashboard | High | In Progress |
-| ⏳ | Real-time Features | Medium | Q2 2024 |
-| 📋 | Mobile App | Medium | Q3 2024 |
-| 💡 | AI Integration | Low | Q4 2024 |
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 **JOIN THE REVOLUTION**
-
-*Contributions make the open source world go round*
-
-</div>
-
-<img align="right" width="300" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-
-### 🎯 **How to Contribute**
-
-1. **🍴 Fork** the repository
-2. **🌿 Create** your feature branch
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. **✨ Commit** your changes
-   ```bash
-   git commit -m '✨ Add some AmazingFeature'
-   ```
-4. **🚀 Push** to the branch
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. **🎉 Open** a Pull Request
-
-<br clear="right"/>
-
-### 🌟 **Contributors Hall of Fame**
-
-<div align="center">
-
-<a href="https://github.com/yourusername/yourrepository/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yourusername/yourrepository" />
-</a>
-
-*Made with [contrib.rocks](https://contrib.rocks)*
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 **ACHIEVEMENTS & STATS**
-
-</div>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=F8F8F2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=F8F8F2)
-
-</div>
-
----
-
-<div align="center">
-
-## 📞 **LET'S CONNECT**
-
-*Always excited to collaborate with fellow innovators*
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shasin-madushan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@sliit.lk)
-
-</div>
-
-<div align="center">
-
-### 📍 **Shasin Madushan**
-🎓 *SLIIT Undergraduate | Full-Stack Developer | Tech Enthusiast*
-
-📧 **Email**: [your.email@sliit.lk](mailto:your.email@sliit.lk)  
-🌐 **Portfolio**: [your-amazing-portfolio.com](https://your-portfolio.com)  
-📱 **Location**: Colombo, Sri Lanka 🇱🇰
-
-</div>
-
----
-
-<div align="center">
-
-## 🎉 **SPECIAL THANKS**
-
-</div>
-
-<div align="center">
-
-### 🏛️ **Academic Support**
-**Sri Lanka Institute of Information Technology**  
-*For providing world-class education and opportunities*
-
-### 👨‍🏫 **Mentors & Faculty**
-*Special thanks to all lecturers who shaped my journey*
-
-### 🌟 **Open Source Community**
-*For the amazing tools and libraries that make this possible*
-
-### ☕ **Coffee & Late Nights**
-*The real MVPs of this project*
+![Snake animation](https://github.com/PasanUdara/PasanUdara/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -359,10 +317,10 @@ gantt
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling)
 
-### ⭐ **If this project helped you, please consider giving it a star!** ⭐
+### 🌟 **"First, solve the problem. Then, write the code."** 🌟
 
-**Made with 💖 and lots of ☕ by [Shasin Madushan](https://github.com/yourusername)**
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
-*"Code is poetry written in logic"* ✨
+*Profile last updated: July 29, 2025*
 
 </div>
